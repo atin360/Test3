@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTTT", "MTTT\MTTT.csproj", "{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Release|iPhone.Build.0 = Release|iPhone
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BDBCE47B-471B-4BAF-92AD-A8E92CB61F65}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MTTT\MTTT.csproj
+	EndGlobalSection
+EndGlobal
